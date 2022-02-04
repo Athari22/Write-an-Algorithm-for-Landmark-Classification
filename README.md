@@ -1,5 +1,5 @@
 # Write-an-Algorithm-for-Landmark-Classification
-In this project, I build the Convolutional Neural Network (CNN) module to build a landmark classifier. This project is part of deep learning nanodegree program with udacity
+In this project, I build the Convolutional Neural Network (CNN) module to build a landmark classifier. This project is part of [deep learning nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12907727449_c&utm_term=121152412746&utm_keyword=nanodegree%20deep%20learning_e&gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8FAvwPPKAF_H4dDtoM72ul1lKBTcQeUHrankyOSeiNxB5F-l5LHvIoaAmsAEALw_wcB) with udacity
 
 # Steps of the project include:
 
