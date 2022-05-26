@@ -7,7 +7,7 @@ In this project, I build the Convolutional Neural Network (CNN) module to build 
 
 2) *Create a CNN to Classify Landmarks (using Transfer Learning)* - Next, you'll investigate different pre-trained models and decide on one to use for this classification task. Along with training and testing this transfer-learned network, you'll explain how you arrived at the pre-trained network you chose.
 
-3) *Write Your Landmark Prediction Algorithm*- Finally, you will use your best model to create a simple interface for others to be able to use your model to find the most likely landmarks depicted in an image. You'll also test out your model yourself and reflect on the strengths and weaknesses of your model. #CNN
+3) *Write Your Landmark Prediction Algorithm*- Finally, you will use your best model to create a simple interface for others to be able to use your model to find the most likely landmarks depicted in an image. You'll also test out your model yourself and reflect on the strengths and weaknesses of your model.
 
 # Dataset
 The landmark images are a subset of the Google Landmarks Dataset v2. The dataset can be obtained using this [link](https://www.kaggle.com/google/google-landmarks-dataset).
